@@ -170,7 +170,8 @@ print(chart);
 
 ---
 ![ee-chart (2)](https://github.com/user-attachments/assets/c67e4304-9e3b-474d-8a4a-5cf46c09602c)
-![Uploading Snapshot_۲۵-۰۴-۲۸_۰۵-۳۷-۱۸.png…]()
+
+![Snapshot_۲۵-۰۴-۲۸_۰۵-۳۷-۱۸](https://github.com/user-attachments/assets/f186b1d0-2904-4550-8b2c-0b13032a0f27)
 
 
 ## 📈 **Future Enhancements**
