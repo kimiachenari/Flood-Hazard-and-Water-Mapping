@@ -41,14 +41,6 @@ var s1 = ee.ImageCollection("COPERNICUS/S1_GRD");
 
 The region of interest (ROI) is defined by a bounding polygon (`bounds1`). You can adjust this polygon to focus on a different area if needed.
 
-```javascript
-var bounds1 = ee.Geometry.Polygon(
-    [[[-76.74813761234307, 41.040156813292256],
-      [-76.74813761234307, 38.7992085672086],
-      [-72.44149698734307, 38.7992085672086],
-      [-72.44149698734307, 41.040156813292256]]], null, false);
-```
-
 ### 3. **Seasonal Analysis: Wet and Dry**
 
 The analysis focuses on two key seasons:
