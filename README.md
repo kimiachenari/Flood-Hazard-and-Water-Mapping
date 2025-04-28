@@ -169,6 +169,9 @@ print(chart);
 ```
 
 ---
+![ee-chart (2)](https://github.com/user-attachments/assets/c67e4304-9e3b-474d-8a4a-5cf46c09602c)
+![Uploading Snapshot_۲۵-۰۴-۲۸_۰۵-۳۷-۱۸.png…]()
+
 
 ## 📈 **Future Enhancements**
 
